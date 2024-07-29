@@ -2,6 +2,10 @@ html>↩<html>↩<head
 
 name: Deploy HTML Files to AppService - CMST385
 
+<html lang="en-us">
+
+<meta charset="UTF-8">
+
 on:
 
   push:
